@@ -63,32 +63,23 @@ Senior Data Engineer with **8+ years** of experience designing and delivering sc
 ## 🛠️ Tech Stack
 
 ### Cloud Platforms
-<p align="left"> 
-<a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 **Services:** S3, Lambda, Redshift, Glue, RDS, DynamoDB, ECS Fargate, BigQuery, Cloud Storage, Cloud Dataflow
 
 ### Data Engineering & ETL
-<p align="left"> 
-<a href="https://airflow.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" alt="airflow" width="40" height="40"/> </a>
-<a href="https://www.getdbt.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbt/dbt-original.svg" alt="dbt" width="40" height="40"/> </a>
-<a href="https://www.databricks.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/> </a>
-<a href="https://spark.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/> </a>
-</p>
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Matillion](https://img.shields.io/badge/Matillion-FF6B35?style=flat-square&logo=matillion&logoColor=white)
 
 **Tools:** Informatica PowerCenter, SSIS, Autosys, Databricks, PySpark, Apache Spark
 
 ### Programming & Scripting
-<p align="left"> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 **Libraries:** pandas, numpy, requests | **Languages:** Python, Advanced SQL, PL/SQL, Shell Scripting
 
@@ -96,25 +87,15 @@ Senior Data Engineer with **8+ years** of experience designing and delivering sc
 **Databases:** Redshift, SQL Server, Oracle, Teradata, DB2 | **Modeling:** Dimensional Modeling (Star/Snowflake)
 
 ### Infrastructure & DevOps
-<p align="left"> 
-<a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
-<a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
-</p>
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Tools:** Terraform, Jenkins, Git, CI/CD Pipelines, Containerized Services
 
 ### AI & Machine Learning
-<p align="left"> 
-<a href="https://openai.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="openai" width="40" height="40"/> </a>
-<a href="https://www.anthropic.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-ar21.svg" alt="anthropic" width="40" height="40"/> </a>
-<a href="https://cloud.google.com/looker" target="_blank"> <img src="https://www.vectorlogo.zone/logos/looker/looker-ar21.svg" alt="looker" width="40" height="40"/> </a>
-<a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
-<a href="https://www.nginx.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/> </a>
-<a href="https://www.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="apache" width="40" height="40"/> </a>
-</p>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-FF6B35?style=flat-square&logo=anthropic&logoColor=white)
 
 **Technologies:** LLMs (OpenAI, Anthropic), RAG, Vector Databases, Model Context Protocol (MCP)
 
